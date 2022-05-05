@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Angryman18
-- 👀 I’m interested in Full Stack Development.
+- 👋 Hi, I’m Shyam Mahanta.
+- 👀 I’m interested in Full Stack Development ReactJS with Django.
 - 🌱 I’m currently working with ReactJS
 - 📫 Love challange and jump on it.
 
