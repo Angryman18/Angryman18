@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shyam Mahanta.
+- 👋 Hi, I’m Shyam Mahanta from West Bengal, India.
 - 👀 I’m interested in Full Stack Development ReactJS with Django.
 - 🌱 I’m currently working with ReactJS
 - 📫 Love challange and jump on it.
