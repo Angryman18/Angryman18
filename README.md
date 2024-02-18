@@ -1,3 +1,4 @@
+### hit your terminal `npx find-shyam`
 - 👋 Hi, I’m Shyam Mahanta from West Bengal, India.
 - 👀 I’m interested in Full Stack Development ReactJS, NodeJS, MonogDb, Javascipt, Typescript, Python, Django.
 - 📫 Love challange and jump on it.
