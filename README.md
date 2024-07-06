@@ -1,6 +1,6 @@
 ### hit your terminal `npx find-shyam`
-- 👋 Hi, I’m Shyam Mahanta from West Bengal, India.
-- 👀 I’m interested in Full Stack Development ReactJS, NodeJS, MonogDb, Javascipt, Typescript, Python, Django.
+- 👋 Hi, I’m Shyam Mahanta from Kolkata, India. I have been working in the industry for more than 2.5yrs and specifically engaged with the Frontend Development (React).
+- 👀 I’m interested in Full Stack Development ReactJS, NodeJS, MonogDb, Javascipt, Typescript, Python, Django, Golang.
 - 📫 Love challange and jump on it.
 
 <!---
