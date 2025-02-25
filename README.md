@@ -1,7 +1,7 @@
 ### hit your terminal `npx find-shyam`
-- 👋 Hi, I’m Shyam Mahanta from Kolkata, India. I have been working in the industry for more than 2.5yrs and specifically engaged with the Frontend Development (React).
-- 👀 I’m interested in Full Stack Development ReactJS, NodeJS, MonogDb, Javascipt, Typescript, Python, Django, Golang.
-- 📫 Love challange and jump on it.
+- 👋 Hi, I’m Shyam Mahanta from Kolkata, India. Aspiring Full Stack Developer.
+- 👀 My Skills are based on Next Framework (ReactJS), Javascript, Typescript, Golang, NodeJS, Python.
+- 📫 Love challange and explore the world of the core Software Development.
 
 <!---
 Angryman18/Angryman18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
