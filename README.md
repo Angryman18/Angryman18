@@ -1,6 +1,6 @@
 ### 🙋‍♂️ Hi There! I'm Shyam Mahanta
 
-![profile_views](https://github-profile-views-nu.vercel.app/api/angryman18)
+![profile_views_counter](https://github-profile-views-nu.vercel.app/api/angryman18)
 
 <h3>My Skills are based on</h3>
 <p>
